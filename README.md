@@ -15,5 +15,10 @@ My LeetCode solution in Java.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
