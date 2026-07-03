@@ -27,4 +27,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
