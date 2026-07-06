@@ -27,8 +27,10 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
