@@ -40,6 +40,7 @@ My LeetCode solution in Java.
 | [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -54,4 +55,16 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
