@@ -50,4 +50,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
