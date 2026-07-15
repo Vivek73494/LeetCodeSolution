@@ -44,6 +44,7 @@ My LeetCode solution in Java.
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
