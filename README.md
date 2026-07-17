@@ -22,6 +22,7 @@ My LeetCode solution in Java.
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 ## Hash Table
@@ -29,11 +30,13 @@ My LeetCode solution in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 ## Math
@@ -41,6 +44,7 @@ My LeetCode solution in Java.
 | ------- |
 | [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
@@ -80,4 +84,12 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
