@@ -64,6 +64,7 @@ My LeetCode solution in Java.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0182-duplicate-emails) |
 ## Dynamic Programming
