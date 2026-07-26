@@ -3,9 +3,14 @@ class Solution {
         
         int max=0;
         for(String sentence:sentences){
-            int wordCount=0;
+            int wordCount=1;
+            for(int i=0;i<sentence.length();i++){
+                if(sentence.charAt(i)==(' ')){
+                    wordCount=wordCount+1;
+                }
+            }
          
-            wordCount=wordCount+sentence.split(" ").length;
+            
             if(wordCount>max){
                 max=wordCount;
             }
