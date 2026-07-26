@@ -7,6 +7,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
@@ -15,6 +16,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
 ## Array
 |  |
