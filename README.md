@@ -19,6 +19,7 @@ My LeetCode solution in Java.
 | [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My LeetCode solution in Java.
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
