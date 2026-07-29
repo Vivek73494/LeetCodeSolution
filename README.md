@@ -104,4 +104,20 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
