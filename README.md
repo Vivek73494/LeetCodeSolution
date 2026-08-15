@@ -11,6 +11,7 @@ My LeetCode solution in Java.
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -31,6 +32,7 @@ My LeetCode solution in Java.
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -44,6 +46,7 @@ My LeetCode solution in Java.
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -51,6 +54,7 @@ My LeetCode solution in Java.
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
@@ -111,6 +115,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
