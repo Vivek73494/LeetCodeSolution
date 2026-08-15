@@ -12,6 +12,7 @@ My LeetCode solution in Java.
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -33,6 +34,7 @@ My LeetCode solution in Java.
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
@@ -42,6 +44,7 @@ My LeetCode solution in Java.
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +53,7 @@ My LeetCode solution in Java.
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
