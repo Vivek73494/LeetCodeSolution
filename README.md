@@ -37,6 +37,7 @@ My LeetCode solution in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
@@ -123,6 +124,7 @@ My LeetCode solution in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
@@ -152,4 +154,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
