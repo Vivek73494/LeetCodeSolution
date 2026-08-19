@@ -35,6 +35,7 @@ My LeetCode solution in Java.
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -121,6 +122,7 @@ My LeetCode solution in Java.
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
@@ -146,4 +148,8 @@ My LeetCode solution in Java.
 | [0100-same-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
