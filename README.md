@@ -31,6 +31,7 @@ My LeetCode solution in Java.
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ My LeetCode solution in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -122,6 +124,7 @@ My LeetCode solution in Java.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
