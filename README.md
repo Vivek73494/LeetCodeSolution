@@ -120,6 +120,7 @@ My LeetCode solution in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -167,4 +168,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
