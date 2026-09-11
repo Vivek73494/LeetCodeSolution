@@ -121,6 +121,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -172,4 +173,5 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
