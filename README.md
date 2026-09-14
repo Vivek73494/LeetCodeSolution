@@ -82,6 +82,7 @@ My LeetCode solution in Java.
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,4 +182,8 @@ My LeetCode solution in Java.
 | ------- |
 | [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
