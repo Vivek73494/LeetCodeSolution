@@ -34,6 +34,7 @@ My LeetCode solution in Java.
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ My LeetCode solution in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -180,6 +182,7 @@ My LeetCode solution in Java.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 ## Geometry
