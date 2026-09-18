@@ -15,6 +15,7 @@ My LeetCode solution in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -44,6 +45,7 @@ My LeetCode solution in Java.
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -141,6 +143,7 @@ My LeetCode solution in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
