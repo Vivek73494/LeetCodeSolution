@@ -7,6 +7,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ My LeetCode solution in Java.
 | [0027-remove-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -138,6 +140,7 @@ My LeetCode solution in Java.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
