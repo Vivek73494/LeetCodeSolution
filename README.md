@@ -48,6 +48,7 @@ My LeetCode solution in Java.
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +90,7 @@ My LeetCode solution in Java.
 | [0728-self-dividing-numbers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
