@@ -38,6 +38,7 @@ My LeetCode solution in Java.
 | [0035-search-insert-position](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ My LeetCode solution in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
@@ -210,4 +212,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
