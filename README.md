@@ -102,6 +102,7 @@ My LeetCode solution in Java.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Linked List
 |  |
 | ------- |
