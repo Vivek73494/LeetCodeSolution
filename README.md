@@ -57,6 +57,7 @@ My LeetCode solution in Java.
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -106,6 +107,7 @@ My LeetCode solution in Java.
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Linked List
 |  |
 | ------- |
