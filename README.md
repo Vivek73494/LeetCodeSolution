@@ -64,6 +64,7 @@ My LeetCode solution in Java.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
+| [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My LeetCode solution in Java.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
+| [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@ My LeetCode solution in Java.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
+| [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
 ## Union-Find
 |  |
 | ------- |
