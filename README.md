@@ -50,6 +50,7 @@ My LeetCode solution in Java.
 | [0704-binary-search](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -175,6 +176,7 @@ My LeetCode solution in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -230,6 +232,7 @@ My LeetCode solution in Java.
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
@@ -239,4 +242,8 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
