@@ -116,6 +116,7 @@ My LeetCode solution in Java.
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +156,7 @@ My LeetCode solution in Java.
 | ------- |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
