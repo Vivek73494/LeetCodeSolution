@@ -114,6 +114,7 @@ My LeetCode solution in Java.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1486-xor-operation-in-an-array) |
+| [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
@@ -158,6 +159,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -249,4 +251,16 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
