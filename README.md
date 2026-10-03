@@ -27,6 +27,7 @@ My LeetCode solution in Java.
 | [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
@@ -83,6 +84,7 @@ My LeetCode solution in Java.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
@@ -236,6 +238,7 @@ My LeetCode solution in Java.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
 ## Union-Find
