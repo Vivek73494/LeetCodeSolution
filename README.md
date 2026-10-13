@@ -68,6 +68,7 @@ My LeetCode solution in Java.
 | [2942-find-words-containing-character](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
+| [3925-concatenate-array-with-reverse](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My LeetCode solution in Java.
 | ------- |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
