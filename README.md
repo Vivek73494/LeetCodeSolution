@@ -26,6 +26,7 @@ My LeetCode solution in Java.
 | [0058-length-of-last-word](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@ My LeetCode solution in Java.
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -173,6 +175,7 @@ My LeetCode solution in Java.
 | [0191-number-of-1-bits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
@@ -183,6 +186,7 @@ My LeetCode solution in Java.
 | [0268-missing-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1051-height-checker) |
