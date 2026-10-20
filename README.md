@@ -121,6 +121,7 @@ My LeetCode solution in Java.
 | [1486-xor-operation-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
