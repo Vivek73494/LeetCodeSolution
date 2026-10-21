@@ -63,6 +63,7 @@ My LeetCode solution in Java.
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -89,6 +90,7 @@ My LeetCode solution in Java.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
@@ -161,6 +163,7 @@ My LeetCode solution in Java.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/0258-add-digits) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -196,6 +199,7 @@ My LeetCode solution in Java.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Vivek73494/LeetCodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Tree
 |  |
