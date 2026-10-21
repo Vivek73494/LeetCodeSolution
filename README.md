@@ -94,6 +94,7 @@ My LeetCode solution in Java.
 | [2540-minimum-common-value](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ My LeetCode solution in Java.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
