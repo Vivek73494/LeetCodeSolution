@@ -1,0 +1,18 @@
+class Solution {
+    public int maxProduct(int n) {
+        int max=Integer.MIN_VALUE;
+        int secondMax=Integer.MIN_VALUE;
+        while(n>0){
+            int digit=n%10;
+            if(digit>max){
+                secondMax=max;
+                max=digit;
+            }
+            else if(digit>secondMax){
+                secondMax=digit;
+            }
+             n=n/10;
+        }
+        return (max*secondMax);
+    }
+}
