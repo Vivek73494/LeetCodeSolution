@@ -131,6 +131,7 @@ My LeetCode solution in Java.
 | [2235-add-two-integers](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -206,6 +207,7 @@ My LeetCode solution in Java.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vivek73494/LeetCodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vivek73494/LeetCodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
